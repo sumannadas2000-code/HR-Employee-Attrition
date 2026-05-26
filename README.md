@@ -11,3 +11,5 @@ Microsoft Power BI
 Power Query
 <br>
 DAX
+<br>
+Interactive Visualizations
